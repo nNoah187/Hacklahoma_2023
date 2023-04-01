@@ -6,7 +6,7 @@ function replaceImages() {
   // Loop through all image elements
   for (let i = 0; i < images.length; i++) {
     // Replace the image source with a picture of Yodbama
-    images[i].src = 'https://ih1.redbubble.net/image.706981852.7957/st,small,845x845-pad,1000x1000,f8f8f8.jpg';
+    images[i].src = 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fyobama&psig=AOvVaw2-mwrO0msZxVI6btd4DTWm&ust=1680464725549000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNCvjt7Lif4CFQAAAAAdAAAAABAW';
   }
 }
 
