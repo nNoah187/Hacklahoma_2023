@@ -6,7 +6,7 @@ function replaceImages() {
   // Loop through all image elements
   for (let i = 0; i < images.length; i++) {
     // Replace the image source with a picture of Yodbama
-    images[i].src = 'https://example.com/yodbama.jpg';
+    images[i].src = 'https://ih1.redbubble.net/image.706981852.7957/st,small,845x845-pad,1000x1000,f8f8f8.jpg';
   }
 }
 
