@@ -13,3 +13,5 @@ To use:
 - Click "Load unpacked"
 - Select folder with extracted files
 - The extension is now enabled
+
+This will hopefully be available soon on the Chrome Web Store.
