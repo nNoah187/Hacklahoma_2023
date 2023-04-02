@@ -8,8 +8,9 @@ const images = [
 'https://www.linkpicture.com/q/yoda1.png',
 
 'https://www.linkpicture.com/q/image_598.png',
+ 'https://www.linkpicture.com/q/yoda333_1.jpg',
+  'https://www.linkpicture.com/q/yoda55_1.png',
 
-'https://www.linkpicture.com/q/418097538003201.png',
 
   // Add as many image paths as you want to display randomly
 ];
@@ -53,7 +54,10 @@ const imagePaths = [
   'https://www.linkpicture.com/q/yoda2.png',
   'https://www.linkpicture.com/q/yoda1.png',
   'https://www.linkpicture.com/q/image_598.png',
-  'https://www.linkpicture.com/q/418097538003201.png',
+  'https://www.linkpicture.com/q/yoda333_1.jpg',
+  'https://www.linkpicture.com/q/yoda55_1.png',
+
+
   // Add as many image paths as you want to display randomly
 ];
 
@@ -86,4 +90,4 @@ window.onload = function() {
   });
 
   observer.observe(document.body, { childList: true, subtree: true });
-};
+}; 
