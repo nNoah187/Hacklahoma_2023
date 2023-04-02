@@ -10,6 +10,12 @@ const images = [
 'https://www.linkpicture.com/q/image_598.png',
  'https://www.linkpicture.com/q/yoda333_1.jpg',
   'https://www.linkpicture.com/q/yoda55_1.png',
+'https://www.linkpicture.com/q/yoda3453.jpg',
+'https://www.linkpicture.com/q/yoda69.jpg',
+'https://www.linkpicture.com/q/yoda353332.jpg',
+'https://www.linkpicture.com/q/yoda99439.png',
+'https://www.linkpicture.com/q/yoda3333.png',
+
 
 
   // Add as many image paths as you want to display randomly
@@ -56,6 +62,12 @@ const imagePaths = [
   'https://www.linkpicture.com/q/image_598.png',
   'https://www.linkpicture.com/q/yoda333_1.jpg',
   'https://www.linkpicture.com/q/yoda55_1.png',
+'https://www.linkpicture.com/q/yoda3453.jpg',
+'https://www.linkpicture.com/q/yoda69.jpg',
+'https://www.linkpicture.com/q/yoda353332.jpg',
+'https://www.linkpicture.com/q/yoda99439.png',
+'https://www.linkpicture.com/q/yoda3333.png',
+
 
 
   // Add as many image paths as you want to display randomly
